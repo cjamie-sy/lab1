@@ -1,0 +1,8 @@
+{
+  "name": "랩앤힐 (Lab & Heal) - 대학원생 마음연구소",
+  "description": "지친 대학원생을 위한 따뜻한 위로, 현실적인 멘토링, 피드백 순화 및 멘탈케어 AI 상담소",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
